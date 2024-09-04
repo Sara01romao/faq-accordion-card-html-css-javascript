@@ -12,7 +12,7 @@
 
 ## 💻  Sobre o Projeto
 
-Para o projeto de praticar front-end, um FAQ Accordion é uma seção de perguntas frequentes (FAQ) com estilo de acordeão, onde o usuário pode expandir ou recolher cada pergunta para ver ou ocultar a resposta
+O projeto FAQ Accordion é uma seção de perguntas frequentes (FAQ) com estilo de acordeão, onde o usuário pode expandir ou recolher cada pergunta para ver ou ocultar a resposta.
 <br>
 <br>
 Fonte: Desafio Frontend Mentor

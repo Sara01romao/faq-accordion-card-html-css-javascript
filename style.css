@@ -81,7 +81,7 @@ h1 {
   padding-right: 16px;
   outline: none;
   gap: 10px;
-  text-align: justify;
+  text-align: left;
 }
 
 .accordion:first-child {
